@@ -1,7 +1,20 @@
-body{
+body {
 		background-color: #FFDAB9	; /*# Cor de fundo da página*/
 		/*margin: 0;*/
 	}	
-#perfil{
+#perfil {
 		margin-left: 0vw;
 }
+#genexus {
+		font-family: Broadway;
+
+}
+#nome {
+		font-family: Broadway;
+}
+#parag01 {
+		font-family: Verdana;	
+}
+
+
+Bahnschrift
